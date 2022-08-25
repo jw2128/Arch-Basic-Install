@@ -1,4 +1,4 @@
-# 🇩🇴 Arch-Basic-Install script 🇩🇴
+# 🇩🇴 Arch Basic Install script 🇩🇴
 
 - ### Instalación básica de Arch Linux con comandos en script shell.
 
